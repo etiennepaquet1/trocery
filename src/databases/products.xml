@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<products>
+    <product>
+        <id>625af4abe875a</id>
+        <aisle>meat</aisle>
+        <name>Black Forest Ham</name>
+        <image>bfm.jpg</image>
+        <price>13</price>
+        <description>This ham is so good, you'll be singing "ooh la la" after just one bite!</description>
+        <moredescription>This Black Forest ham is the perfect addition to any holiday feast! It is juicy, tender, and full of flavor. The ham is smoked over a blend of hickory and cherry wood, giving it a unique flavor that is sure to please your guests. The ham is then hand-glazed with a special recipe that includes brown sugar, molasses, and spices. This glaze gives the ham a beautiful caramelized crust that is absolutely delicious. The ham is fully cooked and ready to eat, making it a convenient and stress-free option for your holiday meal.</moredescription>
+    </product>
+    <product>
+        <id>625af4b576c78</id>
+        <aisle>meat</aisle>
+        <name>Culatello Ham</name>
+        <image>ch.jpg</image>
+        <price>15</price>
+        <description>Culatello ham is the perfect addition to any holiday feast!</description>
+        <moredescription>Culatello ham is a dry-cured ham that is typically made from the hind leg of a pig. The ham is first salted, then air-dried for several months. After the drying process, the ham is rubbed with a mixture of spices, including black pepper, cloves, and nutmeg. The ham is then wrapped in a casing and hung to age for another few months. Culatello ham has a deep, rich flavor that is perfect for any occasion. The ham pairs well with a variety of wines, cheeses, and fruits. It is also excellent sliced thin and served on its own. Culatello ham is a true delicacy and is sure to impress your guests.</moredescription>
+    </product>
+    <product>
+        <id>625aff731212c</id>
+        <aisle>meat</aisle>
+        <name>Beef Filet</name>
+        <image>bf.jpg</image>
+        <price>9</price>
+        <description>If you're looking for an amazing beef filet, look no further! Our filet is juicy, flavorful, and sure to please.</description>
+        <moredescription>Beef filet is the king of steaks. It's the most tender and juicy steak you can get, and it's perfect for any special occasion. When you cook beef filet, you can expect nothing but the best. It's the perfect steak for a romantic dinner, a family gathering, or any other special event. When you order beef filet from the grocery store, you're getting the best quality meat available. It's aged to perfection and hand-selected for the highest quality. When you cook beef filet, you can expect it to be tender, juicy, and full of flavor. It's the perfect steak for any occasion.</moredescription>
+    </product>
+    <product>
+        <id>625aff7d94326</id>
+        <aisle>meat</aisle>
+        <name>Pork Chops</name>
+        <image>pc.jpg</image>
+        <price>11</price>
+        <description>Pork chops are the perfect blend of juicy and savory.</description>
+        <moredescription>If you're looking for the perfect pork chop, you've come to the right place. Our pork chops are juicy, tender, and full of flavor. They're perfect for any occasion, whether you're grilling for a backyard barbecue or cooking up a family dinner. Our pork chops are made from only the finest ingredients. We start with the freshest pork, which is then marinated in our secret blend of spices and herbs. The pork is then grilled to perfection, resulting in a juicy, tender, and delicious chop. Our pork chops are sure to please everyone at your next gathering. So, fire up the grill and get ready to enjoy the best pork chops around!</moredescription>
+    </product>
+    <product>
+        <id>625aff8135416</id>
+        <aisle>meat</aisle>
+        <name>Chicken Breast</name>
+        <image>cb.jpg</image>
+        <price>8</price>
+        <description>This chicken breast is unlike any other- it's juicy, tender, and full of flavor!</description>
+        <moredescription>There's nothing like a juicy, tender chicken breast. Our chicken breasts are hand-selected and raised with care. They're perfect for grilling, roasting, or baking. And they're always juicy and delicious. Our chicken breasts are the perfect size for feeding your family or friends. And they're always juicy and delicious. So whether you're feeding a crowd or just your family, our chicken breasts are sure to please. So come on over and try our chicken breasts. We know you'll love them!</moredescription>
+    </product>
+    <product>
+        <id>625aff86d21b7</id>
+        <aisle>meat</aisle>
+        <name>Ground Beef</name>
+        <image>gb.jpg</image>
+        <price>9</price>
+        <description>Nothing says "home cooking" like a juicy ground beef burger on the grill!</description>
+        <moredescription>Looking for the perfect ground beef for your next meal? Look no further than our delicious and juicy ground beef! Our beef is raised with care and attention, ensuring that it is of the highest quality. Our ground beef is perfect for any dish, whether you're making a classic burger or something more creative. It's packed with flavor and sure to please everyone at the table. So what are you waiting for? Order our ground beef today and enjoy a delicious meal that the whole family will love.</moredescription>
+    </product>
+    <product>
+        <id>625af4b97eb32</id>
+        <aisle>vegetables</aisle>
+        <name>Carrots</name>
+        <image>car.jpg</image>
+        <price>3</price>
+        <description>Enjoy the sweet taste and crisp texture of our carrots.</description>
+        <moredescription>Carrots are one of the most popular vegetables. They are crunchy, sweet, and full of nutrients. Carrots are a good source of fiber, vitamins A, C, and K, and potassium. They are also low in calories. Carrots can be eaten raw, cooked, or juiced. They can be added to salads, soups, and stews. They can also be eaten as a snack. Carrots are a versatile vegetable that can be enjoyed in many different ways. If you are looking for a healthy and tasty vegetable, carrots are a great choice.</moredescription>
+    </product>
+    <product>
+        <id>625af4bce6f97</id>
+        <aisle>vegetables</aisle>
+        <name>Lettuce</name>
+        <image>let.jpg</image>
+        <price>4</price>
+        <description>Our lettuce is the freshest and most delicious in town!</description>
+        <moredescription>Lettuce is a leafy green vegetable that is often used in salads and sandwiches. It is a good source of vitamins A and C, and is low in calories. Lettuce is a cool weather crop that is usually grown in the spring or fall. It is a member of the Asteraceae family, which also includes spinach, chard, and endive. There are many different types of lettuce, including iceberg, romaine, and leaf lettuce. Lettuce is a versatile vegetable that can be used in many different dishes. It can be eaten raw, cooked, or used as a garnish. It is a good addition to soups, stews, and salads. Lettuce can also be used as a wrap for sandwiches.</moredescription>
+    </product>
+    <product>
+        <id>625aff8ca0426</id>
+        <aisle>vegetables</aisle>
+        <name>Cabbage</name>
+        <image>cab.jpg</image>
+        <price>3</price>
+        <description>Only the freshest cabbage for your cooking needs!</description>
+        <moredescription>Cabbage is a vegetable that belongs to the Cruciferae family, which also includes broccoli, cauliflower, kale, and Brussel sprouts. It is a leafy green vegetable that is low in calories but high in vitamins and minerals. Cabbage is a good source of Vitamin C, Vitamin K, and fiber. It has a high water content and is a good detox food. Cabbage can be eaten raw, cooked, or pickled. It is a popular ingredient in sauerkraut, coleslaw, and kimchi.</moredescription>
+    </product>
+    <product>
+        <id>625aff9285ea1</id>
+        <aisle>vegetables</aisle>
+        <name>Cucumbers</name>
+        <image>cuc.jpg</image>
+        <price>3</price>
+        <description>Have a cucumber-licious day!</description>
+        <moredescription>Cucumbers are a refreshing and healthy vegetable that can be enjoyed in many different ways. You can slice them up and add them to a salad, or you can pickle them for a tasty snack. Cucumbers are also a great addition to a sandwich or wrap. If you are looking for a healthy and delicious vegetable to add to your next meal, look no further than cucumbers!</moredescription>
+    </product>
+    <product>
+        <id>625aff96c16e3</id>
+        <aisle>vegetables</aisle>
+        <name>Tomato</name>
+        <image>tom.jpg</image>
+        <price>4</price>
+        <description>Looking for a delicious addition to your salad or sandwich? Look no further than our fresh, juicy tomatoes!</description>
+        <moredescription>The tomato is a popular fruit that is used in many different dishes. It is a good source of vitamins and minerals, and is low in calories. tomatoes are a good source of fiber and can help to regulate blood sugar levels. They are also a good source of lycopene, which is an antioxidant that can help to protect against cancer.</moredescription>
+    </product>
+    <product>
+        <id>625aff9b17f75</id>
+        <aisle>vegetables</aisle>
+        <name>Onions</name>
+        <image>oni.jpg</image>
+        <price>5</price>
+        <description>Our onions are the perfect addition to any meal!</description>
+        <moredescription>Onions are a kitchen staple and one of the most versatile ingredients you can have on hand. They can be used in so many different dishes, from soups and stews to salads and stir-fries. Onions add a delicious depth of flavor to any dish, and they're also a great way to add some extra nutrition to your meal. Onions are a good source of fiber, vitamins C and B6, and manganese. They also contain a compound called quercetin, which has been shown to have anti-inflammatory and antioxidant properties.</moredescription>
+    </product>
+</products>

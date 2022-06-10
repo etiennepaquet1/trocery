@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <firstname>Trocery</firstname>
+        <lastname>Admin</lastname>
+        <postalcode>A0A0A0</postalcode>
+        <email>Admin</email>
+        <password>e3afed0047b08059d0fada10f400c1e5</password>
+        <admin>yes</admin>
+        <cart>[]</cart>
+    </user>
+    <user>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <postalcode>H4N1P7</postalcode>
+        <email>test@example.com</email>
+        <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+        <admin>no</admin>
+        <cart>[]</cart>
+    </user>
+    <user>
+        <firstname>Jane</firstname>
+        <lastname>Doe</lastname>
+        <postalcode>H5T3H3</postalcode>
+        <email>test2@example.com</email>
+        <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+        <admin>no</admin>
+        <cart>[{"id":"625af4b576c78","name":"Culatello Ham","quantity":1,"brand":0,"weight":0,"price":15},{"id":"625aff9285ea1","name":"Cucumbers","quantity":3,"brand":0,"weight":0,"price":3}]</cart>
+    </user>
+</users>

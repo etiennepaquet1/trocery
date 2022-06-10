@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<orders>
+    <order>
+        <id>625b9b91ed6e2</id>
+        <items>[{"id":"625aff8135416","name":"Chicken Breast","quantity":1,"brand":0,"weight":0,"price":8}]</items>
+        <fullname>John Doe</fullname>
+        <postalcode>H4N1P7</postalcode>
+        <user>test@example.com</user>
+    </order>
+    <order>
+        <id>625b9bb0e1926</id>
+        <items>[{"id":"625aff8ca0426","name":"Cabbage","quantity":1,"brand":0,"weight":0,"price":3},{"id":"625aff7d94326","name":"Pork Chops","quantity":2,"brand":0,"weight":0,"price":11}]</items>
+        <fullname>John Doe</fullname>
+        <postalcode>H4N1P7</postalcode>
+        <user>test@example.com</user>
+    </order>
+    <order>
+        <id>625b9bd0da108</id>
+        <items>[{"id":"625aff7d94326","name":"Pork Chops","quantity":15,"brand":0,"weight":0,"price":11}]</items>
+        <fullname>Jane Doe</fullname>
+        <postalcode>H5T3H3</postalcode>
+        <user>test2@example.com</user>
+    </order>
+    <order>
+        <id>625b9b5c3e07b</id>
+        <items>[{"id":"625af4abe875a","name":"Black Forest Ham","quantity":3,"brand":0,"weight":0,"price":13},{"id":"625af4bce6f97","name":"Lettuce","quantity":4,"brand":0,"weight":0,"price":4},{"id":"625af4b97eb32","name":"Carrots","quantity":1,"brand":0,"weight":0,"price":3},{"id":"625aff86d21b7","name":"Ground Beef","quantity":1,"brand":0,"weight":0,"price":9},{"id":"625aff9285ea1","name":"Cucumbers","quantity":2,"brand":0,"weight":0,"price":3}]</items>
+        <fullname>John Doe</fullname>
+        <postalcode>H4N1P7</postalcode>
+        <user>test@example.com</user>
+    </order>
+</orders>
